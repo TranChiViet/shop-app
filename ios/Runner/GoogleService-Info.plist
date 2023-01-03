@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>319301727482-lvh4sedqhrvr0rn6ueqkdpesmubgjkoq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319301727482-lvh4sedqhrvr0rn6ueqkdpesmubgjkoq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj12DCi6xU2mMQfYMKKroayh1hsdwuAlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319301727482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopApp</string>
+	<key>PROJECT_ID</key>
+	<string>shop-app-2868c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shop-app-2868c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319301727482:ios:b5bd73655a7148216c8543</string>
+	<key>DATABASE_URL</key>
+	<string>https://shop-app-2868c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
